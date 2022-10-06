@@ -1,0 +1,3 @@
+Subject : Sending email via a shell script
+
+This mail has been sent by a linux shell script 
